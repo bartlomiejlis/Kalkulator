@@ -5,7 +5,6 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
@@ -26,7 +25,7 @@ To create it I used one of the free programming courses of Kodilla programming s
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
