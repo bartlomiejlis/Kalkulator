@@ -8,6 +8,7 @@
 * [Screenshots](#screenshots)
 * [Usage](#usage)
 * [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
@@ -32,7 +33,11 @@ The program works in text form. Follow instructions on your screen to start usin
 
 
 ## Project Status
-Project is: _complete_.
+Project is: _no longer being worked on_.
+
+
+## Room for Improvement
+- Fixing problem with division by zero.
 
 
 ## Acknowledgements
